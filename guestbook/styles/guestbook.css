@@ -1,0 +1,40 @@
+#AP{
+    position: relative;
+    top: 15px;
+}
+
+body{
+    background-color: lightgrey;
+}
+#ef{
+    position: relative;
+    right: 20px;
+}
+.err{
+    color: darkred;
+    visibility: hidden;
+}
+
+fieldset{
+    border: 1px solid darkblue;
+    padding: 1em;
+}
+
+#block{
+    display: none;
+}
+
+legend{
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 125%;
+}
+
+
+#main{
+    background-color: white;
+    padding: 6em;
+}
+#submit{
+    background-color: darkblue;
+}
